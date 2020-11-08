@@ -7,8 +7,8 @@
 | GitHub | https://github.com/vikGorbachova/pub |
 
  ### Skills 
-| C++ | STL | TDD | GIT | Linux |
-| -- | -- | -- | -- | -- |
+| C++ | STL | TDD | GIT | Linux | CMake |
+| -- | -- | -- | -- | -- | -- |
 
 ### Education
 - 2020 The Art of Modern C ++ Development (Coursera)
